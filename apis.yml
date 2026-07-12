@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.geoplugin.com
 common:
+  - type: DomainSecurity
+    url: security/geoplugin-domain-security.yml
   - type: Website
     url: https://www.geoplugin.com
   - type: PublicAPIsListing
