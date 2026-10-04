@@ -39,7 +39,6 @@ apis:
   - name: geoPlugin
     description: "IP geolocation and currency conversion"
     humanURL: https://www.geoplugin.com
-    baseURL: https://www.geoplugin.com
     tags:
       - Geocoding
     properties:
